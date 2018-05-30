@@ -1,0 +1,9 @@
+{
+  "DB": {
+    "URL": "mongodb://localhost:27017/test_db"
+  },
+  "SERVER": {
+    "HOST": "localhost",
+    "PORT": 8099
+  }
+}
